@@ -6,8 +6,9 @@ package Unit2;
 //java.awt.*;-> awt controls
 //java.awt.event.*;-> awt events
 
-import java.awt.FlowLayout;
-import javax.swing.*;
+import java.awt.*;
+import java.awt.event.*;
+import javax.swing.*;;
 
 class Form extends JFrame{  //inheritng properties of JFrame
   //create instance variables of controls
@@ -58,6 +59,48 @@ class Form extends JFrame{  //inheritng properties of JFrame
     setLayout(new FlowLayout());
     //if window is closed, program should be terminated
     setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+
+    //after button is pressed, action event is generated
+    b1.addActionListener(new ActionListener() {
+      @Override
+      public void actionPerformed(ActionEvent e){
+        String uname = t1.getText();
+        String pass = new String(p1.getPassword());
+        String repass = new String(p2.getPassword());
+        //radio
+        String gender = "";
+        if(r1.isSelected()){
+          gender = r1.getText();
+        } else {
+          gender = r2.getText();
+        }
+        //checkbox
+        String course = "";
+        if(c1.isSelected()){
+          course += c1.getText() + " ";
+        }
+        if(c2.isSelected()){
+          course += c2.getText() + " ";
+        }
+        if(c3.isSelected()){
+          course += c3.getText() + " ";
+        }
+        //combobox
+        String country = "";
+        if(cb1.getSelectedItem().toString()!=null){
+          country = (String)cb1.getSelectedItem();
+        }
+        //display result
+        l7.setText(
+          "username" + uname + "\n " + 
+          "password" + pass + "\n " + 
+          "repassword" + repass + "\n " + 
+          "gender" + gender + "\n " + 
+          "course" + course + "\n " + 
+          "country" + country
+        );
+      }
+    });
   }
 }
 
