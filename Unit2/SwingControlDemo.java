@@ -8,7 +8,8 @@ package Unit2;
 
 import java.awt.*;
 import java.awt.event.*;
-import javax.swing.*;;
+import java.io.*;
+import javax.swing.*;
 
 class Form extends JFrame{  //inheritng properties of JFrame
   //create instance variables of controls
@@ -99,6 +100,22 @@ class Form extends JFrame{  //inheritng properties of JFrame
           "course" + course + "\n " + 
           "country" + country
         );
+
+        //putting data of form into file
+        try {
+            File f = new File("form.txt");
+            if(!f.exists()){
+              f.createNewFile();
+              //open file in write mode
+              FileWriter fw = new FileWriter(f);
+              //data
+              String data = "username" + uname + "\n " + "password" + pass + "\n " + "repassword" + repass + "\n " + "gender" + gender + "\n " + "course" + course + "\n " + "country" + country;
+              fw.write(data);
+              fw.close();
+            }
+        } catch (IOException i) {
+          System.out.println(i);
+        }
       }
     });
   }

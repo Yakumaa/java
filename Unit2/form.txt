@@ -1,0 +1,6 @@
+usernametest
+ passwordtest
+ repasswordtest
+ genderMale
+ courseC++ Java 
+ countryUK
