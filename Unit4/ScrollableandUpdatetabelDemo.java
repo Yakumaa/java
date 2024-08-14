@@ -40,7 +40,8 @@ public class ScrollableandUpdatetabelDemo {
       //updating username to sam for row2
       rs.updateString("username", "sam");
       rs.updateRow();
-
+      System.out.println("id is: "+rs.getString("id"));
+      System.out.println("username is: "+rs.getString("username"));
     } catch(SQLException e) {
       System.out.println(e);
     } catch(ClassNotFoundException c) {
