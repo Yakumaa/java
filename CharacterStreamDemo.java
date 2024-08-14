@@ -13,8 +13,9 @@ public class CharacterStreamDemo {
           System.out.println("enter line of text");
           String data = sc.next();
           fw.write(data);
+          sc.close();
           fw.close();
-
+          
           //reading from file
           FileReader fr = new FileReader(f1);
           //reading throug scanner object
@@ -22,6 +23,7 @@ public class CharacterStreamDemo {
           if(sc1.hasNextLine()){
             System.out.println(sc1.nextLine());
           }
+          sc1.close();
           fr.close();
       } catch (IOException e) {
         System.out.println(e);
