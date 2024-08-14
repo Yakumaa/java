@@ -5,8 +5,8 @@ public class ScrollableandUpdatetabelDemo {
   public static void main(String[] args) {
     try {
       Connection conn;
-      Class.forName("com.sql.jdbc.Driver");
-      String url = "jdbc:mysql:/localhost:3306/primecsita";
+      Class.forName("com.mysql.jdbc.Driver");
+      String url = "jdbc:mysql://localhost:3306/primecsita";
       String susername = "root";
       String spassword = "";
       conn = DriverManager.getConnection(url, susername, spassword);
