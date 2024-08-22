@@ -1,0 +1,205 @@
+{
+	// Use IntelliSense to learn about possible attributes.
+	// Hover to view descriptions of existing attributes.
+	// For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "java",
+			"name": "Current File",
+			"request": "launch",
+			"mainClass": "${file}"
+		},
+		{
+			"type": "java",
+			"name": "CharacterStreamDemo",
+			"request": "launch",
+			"mainClass": "CharacterStreamDemo",
+			"projectName": "java_5f70449c"
+		},
+		{
+			"type": "java",
+			"name": "CustomException",
+			"request": "launch",
+			"mainClass": "CustomException",
+			"projectName": "java_5f70449c"
+		},
+		{
+			"type": "java",
+			"name": "ExceptionHandling",
+			"request": "launch",
+			"mainClass": "ExceptionHandling",
+			"projectName": "java_5f70449c"
+		},
+		{
+			"type": "java",
+			"name": "FileHandling",
+			"request": "launch",
+			"mainClass": "FileHandling",
+			"projectName": "java_5f70449c"
+		},
+		{
+			"type": "java",
+			"name": "InheritanceInterface",
+			"request": "launch",
+			"mainClass": "InheritanceInterface",
+			"projectName": "java_5f70449c"
+		},
+		{
+			"type": "java",
+			"name": "InterfaceDemo",
+			"request": "launch",
+			"mainClass": "InterfaceDemo",
+			"projectName": "java_5f70449c"
+		},
+		{
+			"type": "java",
+			"name": "JDBCDemo",
+			"request": "launch",
+			"mainClass": "JDBCDemo",
+			"projectName": "java_5f70449c"
+		},
+		{
+			"type": "java",
+			"name": "PreparedStatementDemo",
+			"request": "launch",
+			"mainClass": "PreparedStatementDemo",
+			"projectName": "java_5f70449c"
+		},
+		{
+			"type": "java",
+			"name": "RunnableDemo",
+			"request": "launch",
+			"mainClass": "RunnableDemo",
+			"projectName": "java_5f70449c"
+		},
+		{
+			"type": "java",
+			"name": "ScrollableandUpdatetabelDemo",
+			"request": "launch",
+			"mainClass": "ScrollableandUpdatetabelDemo",
+			"projectName": "java_5f70449c"
+		},
+		{
+			"type": "java",
+			"name": "SerializableDemo",
+			"request": "launch",
+			"mainClass": "SerializableDemo",
+			"projectName": "java_5f70449c"
+		},
+		{
+			"type": "java",
+			"name": "SwingConnectionDemo",
+			"request": "launch",
+			"mainClass": "SwingConnectionDemo",
+			"projectName": "java_5f70449c"
+		},
+		{
+			"type": "java",
+			"name": "SwingJTableDemo",
+			"request": "launch",
+			"mainClass": "SwingJTableDemo",
+			"projectName": "java_5f70449c"
+		},
+		{
+			"type": "java",
+			"name": "ThreadClassDemo",
+			"request": "launch",
+			"mainClass": "ThreadClassDemo",
+			"projectName": "java_5f70449c"
+		},
+		{
+			"type": "java",
+			"name": "ThreadDemo",
+			"request": "launch",
+			"mainClass": "ThreadDemo",
+			"projectName": "java_5f70449c"
+		},
+		{
+			"type": "java",
+			"name": "CardLayoutDemo",
+			"request": "launch",
+			"mainClass": "Unit2.CardLayoutDemo",
+			"projectName": "java_5f70449c"
+		},
+		{
+			"type": "java",
+			"name": "GridBagLayoutDemo",
+			"request": "launch",
+			"mainClass": "Unit2.GridBagLayoutDemo",
+			"projectName": "java_5f70449c"
+		},
+		{
+			"type": "java",
+			"name": "MenuDemo",
+			"request": "launch",
+			"mainClass": "Unit2.MenuDemo",
+			"projectName": "java_5f70449c"
+		},
+		{
+			"type": "java",
+			"name": "QuestionDemo",
+			"request": "launch",
+			"mainClass": "Unit2.QuestionDemo",
+			"projectName": "java_5f70449c"
+		},
+		{
+			"type": "java",
+			"name": "SwingControlDemo",
+			"request": "launch",
+			"mainClass": "Unit2.SwingControlDemo",
+			"projectName": "java_5f70449c"
+		},
+		{
+			"type": "java",
+			"name": "KeyEventDemo",
+			"request": "launch",
+			"mainClass": "Unit3.KeyEventDemo",
+			"projectName": "java_5f70449c"
+		},
+		{
+			"type": "java",
+			"name": "MouseAdapterDemo",
+			"request": "launch",
+			"mainClass": "Unit3.MouseAdapterDemo",
+			"projectName": "java_5f70449c"
+		},
+		{
+			"type": "java",
+			"name": "MouseEventDemo",
+			"request": "launch",
+			"mainClass": "Unit3.MouseEventDemo",
+			"projectName": "java_5f70449c"
+		},
+		{
+			"type": "java",
+			"name": "WindowAdapterDemo",
+			"request": "launch",
+			"mainClass": "Unit3.WindowAdapterDemo",
+			"projectName": "java_5f70449c"
+		},
+		{
+			"type": "java",
+			"name": "WindowEventDemo",
+			"request": "launch",
+			"mainClass": "Unit3.WindowEventDemo",
+			"projectName": "java_5f70449c"
+		},
+		{
+			"type": "java",
+			"name": "FXLayoutDemo",
+			"request": "launch",
+			"mainClass": "Unit6.FXLayoutDemo",
+			"vmArgs": "--module-path \"C:/Users/Shrijala Maharjan/Downloads/openjfx-22.0.2_windows-x64_bin-sdk/javafx-sdk-22.0.2/lib\" --add-modules=javafx.controls,javafx.fxml",
+			// C:\Users\Shrijala Maharjan\Downloads\openjfx-22.0.2_windows-x64_bin-sdk\javafx-sdk-22.0.2\lib
+			"projectName": "java_5f70449c"
+		},
+		{
+			"type": "java",
+			"name": "inheritance",
+			"request": "launch",
+			"mainClass": "inheritance",
+			"projectName": "java_5f70449c"
+		}
+	]
+}
