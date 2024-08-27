@@ -1,3 +1,4 @@
+package Unit1;
 //cutoms exception regers to creating own exception (error)
 //to create own exception we have to inherit Exception class.
 

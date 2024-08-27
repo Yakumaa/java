@@ -1,3 +1,4 @@
+package Unit1;
 //multithreading is a mechanism by which one program can do mulitple work at a same time. 
 //in java multithreading can be acheive using two ways:
 //1. by implementing runnable interface

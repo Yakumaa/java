@@ -1,3 +1,4 @@
+package Unit1;
 //creating thread by inheriting thread class
 
 class Calculate1 extends Thread{

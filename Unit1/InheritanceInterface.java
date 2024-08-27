@@ -1,3 +1,4 @@
+package Unit1;
 interface  Calc1{
   void Multiplication(int a, int b);
 }
