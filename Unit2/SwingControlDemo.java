@@ -92,14 +92,15 @@ class Form extends JFrame{  //inheritng properties of JFrame
           country = (String)cb1.getSelectedItem();
         }
         //display result
-        l7.setText(
-          "username" + uname + "\n " + 
-          "password" + pass + "\n " + 
-          "repassword" + repass + "\n " + 
-          "gender" + gender + "\n " + 
-          "course" + course + "\n " + 
-          "country" + country
-        );
+        l7.setText("<html>Username is: "+uname+
+                        "<br>Password is: "+pass+
+                        "<br>Repass is: "+repass+
+                        "<br>Gender is: "+gender+
+                        "<br>Course is: "+course+
+                        "<br>Country is: "+country
+                        +"</html>"
+                );
+
 
         //putting data of form into file
         try {

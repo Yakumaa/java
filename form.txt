@@ -1,0 +1,6 @@
+usernameram
+ password123
+ repassword123
+ genderMale
+ courseC Java 
+ countryUSA
