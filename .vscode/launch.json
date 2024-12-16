@@ -6,6 +6,107 @@
 	"configurations": [
     {
       "type": "java",
+      "name": "PrimeReverseClient",
+      "request": "launch",
+      "mainClass": "Lab5.PrimeReverseClient",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "PrimeReverseServer",
+      "request": "launch",
+      "mainClass": "Lab5.PrimeReverseServer",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "ProductRmiClient",
+      "request": "launch",
+      "mainClass": "Lab5.ProductRmiClient",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "ProductRmiServer",
+      "request": "launch",
+      "mainClass": "Lab5.ProductRmiServer",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "RMIclient",
+      "request": "launch",
+      "mainClass": "Lab5.RMIclient",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "RMIserver",
+      "request": "launch",
+      "mainClass": "Lab5.RMIserver",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "SwingForm",
+      "request": "launch",
+      "mainClass": "Lab4.SwingForm",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "JavafxForm",
+      "request": "launch",
+      "mainClass": "Lab5.JavafxForm",
+      "projectName": "java_72e8cc1b",
+      "vmArgs": "--module-path \"D:/java/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "FXLayoutDemo",
+      "request": "launch",
+      "mainClass": "Unit6.FXLayoutDemo",
+      "projectName": "java_72e8cc1b",
+      "vmArgs": "--module-path \"D:/java/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "FxLayoutDemo",
+      "request": "launch",
+      "mainClass": "Unit6.FxLayoutDemo",
+      "projectName": "java_72e8cc1b",
+      "vmArgs": "--module-path \"D:/java/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "UDPclient",
+      "request": "launch",
+      "mainClass": "Lab5.UDPclient",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "TCPserver",
+      "request": "launch",
+      "mainClass": "Lab5.TCPserver",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "TCPclient",
+      "request": "launch",
+      "mainClass": "Lab5.TCPclient",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "JDBCDemo",
+      "request": "launch",
+      "mainClass": "JDBCDemo",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
       "name": "ActionEventExample",
       "request": "launch",
       "mainClass": "Lab3.ActionEventExample",

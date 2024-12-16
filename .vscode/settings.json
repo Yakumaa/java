@@ -1,15 +1,24 @@
 {
 	"java.project.referencedLibraries": [
-		"c:\\Users\\Shrijala Maharjan\\Downloads\\openjfx-22.0.2_windows-x64_bin-sdk\\javafx-sdk-22.0.2\\lib\\javafx.graphics.jar",
-		"c:\\Users\\Shrijala Maharjan\\Downloads\\openjfx-22.0.2_windows-x64_bin-sdk\\javafx-sdk-22.0.2\\lib\\javafx.web.jar",
-		"c:\\Users\\Shrijala Maharjan\\Downloads\\openjfx-22.0.2_windows-x64_bin-sdk\\javafx-sdk-22.0.2\\lib\\javafx.controls.jar",
-		"c:\\Users\\Shrijala Maharjan\\Downloads\\openjfx-22.0.2_windows-x64_bin-sdk\\javafx-sdk-22.0.2\\lib\\javafx.swing.jar",
-		"c:\\Users\\Shrijala Maharjan\\Downloads\\openjfx-22.0.2_windows-x64_bin-sdk\\javafx-sdk-22.0.2\\lib\\javafx.media.jar",
-		"c:\\Users\\Shrijala Maharjan\\Desktop\\New folder\\java\\mysql-connector-java-8.0.30.jar",
-		"c:\\Users\\Shrijala Maharjan\\Downloads\\openjfx-22.0.2_windows-x64_bin-sdk\\javafx-sdk-22.0.2\\lib\\javafx.base.jar",
-		"c:\\Users\\Shrijala Maharjan\\Downloads\\openjfx-22.0.2_windows-x64_bin-sdk\\javafx-sdk-22.0.2\\lib\\javafx-swt.jar",
-		"c:\\Users\\Shrijala Maharjan\\Desktop\\New folder\\java\\java.jar",
-		"c:\\Users\\Shrijala Maharjan\\Downloads\\openjfx-22.0.2_windows-x64_bin-sdk\\javafx-sdk-22.0.2\\lib\\javafx.fxml.jar"
-	],
+    "c:\\Users\\Shrijala Maharjan\\Downloads\\openjfx-22.0.2_windows-x64_bin-sdk\\javafx-sdk-22.0.2\\lib\\javafx.graphics.jar",
+    "c:\\Users\\Shrijala Maharjan\\Downloads\\openjfx-22.0.2_windows-x64_bin-sdk\\javafx-sdk-22.0.2\\lib\\javafx.web.jar",
+    "c:\\Users\\Shrijala Maharjan\\Downloads\\openjfx-22.0.2_windows-x64_bin-sdk\\javafx-sdk-22.0.2\\lib\\javafx.controls.jar",
+    "c:\\Users\\Shrijala Maharjan\\Downloads\\openjfx-22.0.2_windows-x64_bin-sdk\\javafx-sdk-22.0.2\\lib\\javafx.swing.jar",
+    "c:\\Users\\Shrijala Maharjan\\Downloads\\openjfx-22.0.2_windows-x64_bin-sdk\\javafx-sdk-22.0.2\\lib\\javafx.media.jar",
+    "c:\\Users\\Shrijala Maharjan\\Desktop\\New folder\\java\\mysql-connector-java-8.0.30.jar",
+    "c:\\Users\\Shrijala Maharjan\\Downloads\\openjfx-22.0.2_windows-x64_bin-sdk\\javafx-sdk-22.0.2\\lib\\javafx.base.jar",
+    "c:\\Users\\Shrijala Maharjan\\Downloads\\openjfx-22.0.2_windows-x64_bin-sdk\\javafx-sdk-22.0.2\\lib\\javafx-swt.jar",
+    "c:\\Users\\Shrijala Maharjan\\Desktop\\New folder\\java\\java.jar",
+    "c:\\Users\\Shrijala Maharjan\\Downloads\\openjfx-22.0.2_windows-x64_bin-sdk\\javafx-sdk-22.0.2\\lib\\javafx.fxml.jar",
+    "mysql-connector-java-8.0.30.jar",
+    "openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib/javafx.base.jar",
+    "openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib/javafx.controls.jar",
+    "openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib/javafx.fxml.jar",
+    "openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib/javafx.graphics.jar",
+    "openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib/javafx.media.jar",
+    "openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib/javafx.swing.jar",
+    "openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib/javafx.web.jar",
+    "openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib/javafx-swt.jar"
+  ],
 	"java.project.sourcePaths": [".", "Unit4"]
 }
