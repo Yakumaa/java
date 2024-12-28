@@ -20,7 +20,9 @@ public class JDBCDemo {
         if(conn!=null){
           System.out.println("Database COnnection successfull");
         }else{
-            System.out.println("Database Not connected");
+            System.out.println("""
+            Database Not connected
+            """);
         }
         // //creating table
         // String tblQuery="create table tbl_reg ("

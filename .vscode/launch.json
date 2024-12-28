@@ -6,6 +6,90 @@
 	"configurations": [
     {
       "type": "java",
+      "name": "RowSetExample",
+      "request": "launch",
+      "mainClass": "RowSetExample",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "KeyEventExample",
+      "request": "launch",
+      "mainClass": "Lab3.KeyEventExample",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "ScrollableandUpdatetabelDemo",
+      "request": "launch",
+      "mainClass": "ScrollableandUpdatetabelDemo",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "RowSetUpdatableScrollable",
+      "request": "launch",
+      "mainClass": "Lab4.RowSetUpdatableScrollable",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Menu",
+      "request": "launch",
+      "mainClass": "Lab2.Menu",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "ButtonClicks",
+      "request": "launch",
+      "mainClass": "Lab2.ButtonClicks",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Addition",
+      "request": "launch",
+      "mainClass": "Unit2.Addition",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "BorderLayoutExample",
+      "request": "launch",
+      "mainClass": "Unit2.BorderLayoutExample",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "GridLayoutExample",
+      "request": "launch",
+      "mainClass": "Unit2.GridLayoutExample",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "GridBagLayoutDemo",
+      "request": "launch",
+      "mainClass": "Unit2.GridBagLayoutDemo",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "AbstractClassExample",
+      "request": "launch",
+      "mainClass": "Unit1.AbstractClassExample",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "RunnableDemo",
+      "request": "launch",
+      "mainClass": "Unit1.RunnableDemo",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
       "name": "PrimeReverseClient",
       "request": "launch",
       "mainClass": "Lab5.PrimeReverseClient",
